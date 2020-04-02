@@ -5,6 +5,7 @@ from ML2.settings import BASE_DIR
 
 log = logging.getLogger('estimator')
 ROOTDIR = os.path.join(os.getcwd(),"ML2/workers")
+# ROOTDIR = os.path.join(os.getcwd(),"")
 csvDIR = os.path.join(ROOTDIR, 'Algorithm')
 
 def run(path):  # length, dev, measure_time, temp_edge,humid, temp_cent):
@@ -26,10 +27,11 @@ def run(path):  # length, dev, measure_time, temp_edge,humid, temp_cent):
     ##############################################################
     lines = os.popen(command).readlines()
     record = []
-    fills = True
+    fills = False
     nrec = 0
     for ls in lines:
         if ls.find("==RESULT-S==") > 0:
+        # if ls.find("score  grade") > 0:
             fills = True
             continue
         if ls.find("==RESULT-E==") > 0: break

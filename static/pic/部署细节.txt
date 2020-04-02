@@ -1,0 +1,7 @@
+1.前端程序：
+cd ruoyi-ui（前端代码目录下）
+npm install
+npm run dev
+
+2.后端程序
+java -jar ruoyi.jar

@@ -1,0 +1,66 @@
+main.entrance-DEBUG-2020-04-02 01:42:44.819790
+main.entrance-DEBUG-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~preprocess start~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+main.entrance.preprocess-DEBUG-clean start--------------------
+main.entrance.preprocess-DEBUG-user_list:
+main.entrance.preprocess.breastdata-DEBUG-6
+main.entrance-DEBUG-2020-04-02 01:43:41.140913
+main.entrance-DEBUG-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~preprocess start~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+main.entrance.preprocess-DEBUG-clean start--------------------
+main.entrance.preprocess-DEBUG-user_list:
+main.entrance.preprocess.breastdata-DEBUG-6
+main.entrance-DEBUG-2020-04-02 01:45:01.742699
+main.entrance-DEBUG-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~preprocess start~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+main.entrance.preprocess-DEBUG-clean start--------------------
+main.entrance.preprocess-DEBUG-user_list:
+main.entrance.preprocess.breastdata-DEBUG-13917596968
+main.entrance.preprocess-DEBUG---------------------clean end--------------------
+main.entrance.preprocess-DEBUG-
+main.entrance.preprocess-DEBUG---------------------judge start--------------------
+main.entrance.preprocess-DEBUG-user_list:
+main.entrance.preprocess-DEBUG-13917596968
+main.entrance.preprocess-DEBUG---------------------judge finish--------------------
+main.entrance.preprocess-DEBUG-
+main.entrance.preprocess-DEBUG---------------------split start--------------------
+main.entrance.preprocess-DEBUG-user_list:
+main.entrance.preprocess-DEBUG-13917596968
+main.entrance.preprocess-DEBUG---------------------split finish--------------------
+main.entrance.preprocess-DEBUG-
+main.entrance-DEBUG-******************************preprocess finish******************************
+main.entrance-DEBUG-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Feature Mining start~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+main.entrance.FeatureMining-DEBUG-user_list:
+main.entrance.FeatureMining-DEBUG-13917596968-0
+main.entrance.FeatureMining-DEBUG-13917596968-1
+main.entrance.FeatureMining-DEBUG-13917596968-2
+main.entrance-DEBUG-******************************Feature Mining finish******************************
+main.entrance-DEBUG-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~predict start~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+main.entrance-DEBUG-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~predict finish~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+main.entrance-DEBUG-2020-04-02 01:45:04.305592
+main.entrance-DEBUG-Escape:2
+main.entrance-DEBUG-2020-04-02 01:47:13.737899
+main.entrance-DEBUG-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~preprocess start~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+main.entrance.preprocess-DEBUG-clean start--------------------
+main.entrance.preprocess-DEBUG-user_list:
+main.entrance.preprocess.breastdata-DEBUG-13917596968
+main.entrance.preprocess-DEBUG---------------------clean end--------------------
+main.entrance.preprocess-DEBUG-
+main.entrance.preprocess-DEBUG---------------------judge start--------------------
+main.entrance.preprocess-DEBUG-user_list:
+main.entrance.preprocess-DEBUG-13917596968
+main.entrance.preprocess-DEBUG---------------------judge finish--------------------
+main.entrance.preprocess-DEBUG-
+main.entrance.preprocess-DEBUG---------------------split start--------------------
+main.entrance.preprocess-DEBUG-user_list:
+main.entrance.preprocess-DEBUG-13917596968
+main.entrance.preprocess-DEBUG---------------------split finish--------------------
+main.entrance.preprocess-DEBUG-
+main.entrance-DEBUG-******************************preprocess finish******************************
+main.entrance-DEBUG-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Feature Mining start~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+main.entrance.FeatureMining-DEBUG-user_list:
+main.entrance.FeatureMining-DEBUG-13917596968-0
+main.entrance.FeatureMining-DEBUG-13917596968-1
+main.entrance.FeatureMining-DEBUG-13917596968-2
+main.entrance-DEBUG-******************************Feature Mining finish******************************
+main.entrance-DEBUG-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~predict start~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+main.entrance-DEBUG-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~predict finish~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+main.entrance-DEBUG-2020-04-02 01:47:15.959186
+main.entrance-DEBUG-Escape:2
